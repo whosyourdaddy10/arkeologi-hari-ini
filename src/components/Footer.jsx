@@ -31,7 +31,7 @@ const Footer = () => {
                             <h5>Instagram</h5>
                         </div>
                 </div>
-                    <a href="https://trakteer.id/afimuhammad" target="blank">
+                    <a href="https://trakteer.id/whosyourdaddy10" target="blank">
                         <div className="trakteer" style={{width: "100%", height: "fit-content", padding: "25px 0 0 0", display: "flex", justifyContent: "center"}}>
                             <div style={{width: "fit-content", height: "fit-content", padding: "4px", display: "flex", flexDirection: "row", gap: "5px", alignItems: "center"}}>
                                 <img src={Donate} style={{width: "30px", height: "30px"}}/>
